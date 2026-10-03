@@ -1,0 +1,18 @@
+{
+  "name": "modern-ui-tokens",
+  "version": "1.0.0",
+  "description": "Design system tokens, UI brand assets, and showcase media presets",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "design-tokens",
+    "ui-kit",
+    "brand-assets",
+    "showcase-tokens"
+  ],
+  "author": "Brian Hanif",
+  "license": "MIT"
+}
